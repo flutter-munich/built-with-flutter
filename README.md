@@ -30,6 +30,12 @@ Though Flutter Munich usually organizes events for software developers, **for th
 
 If you submit your presentation, please think about the description.
 
+Due to character limits on Meetup.com, we need a short description so that we don't exceed the character limit after each presentation's description is added.
+
+The limit for the event description is 450 characters, that's around 80 words.
+
+If you have a longer description, we can add it to this repository and link the repo in the meetup description.
+
 We recommend you include in the description the following:
 
 * The name of the presenter(s). You can present together with someone (e.g. software developer + product owner or designer), in this case, send us the name of every presenters name.
